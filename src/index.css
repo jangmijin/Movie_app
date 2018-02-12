@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: BlinkMacSystemFont, 'segoe UI',Roboto,Oxygen,Ubuntu,sans-serif;
+  background:#eff3f7;
+  height:100%
+}
+
+html, #root{
+  height:100%;
+}
